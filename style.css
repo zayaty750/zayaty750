@@ -54,3 +54,18 @@
     width: 16%;
     transition: 5s;
 }
+
+.mervat_style {
+    position: absolute;
+    width: 15%;
+    height: 40%;
+    border-radius: 2cm;
+    margin-left: 550px;
+    margin-top: 650px;
+}
+
+.mervat_style:hover {
+    position: absolute;
+    width: 16%;
+    transition: 5s;
+}
